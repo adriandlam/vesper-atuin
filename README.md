@@ -4,6 +4,8 @@
 
 Peppermint and orange flavored dark theme for [atuin](https://atuin.sh) (shell history). Port of the [Vesper](https://github.com/raunofreiberg/vesper) VS Code theme by [Rauno Freiberg](https://github.com/raunofreiberg).
 
+![Preview](preview.png)
+
 ## Colors
 
 | Role | Color | Hex |
